@@ -1,2 +1,2 @@
 # linux
-custom scripts and dwm rice
+custom scripts, configs, and dwm rice
