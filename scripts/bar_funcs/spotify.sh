@@ -2,7 +2,7 @@
 
 # Dependencies: spotify/spotifyd, playerctl
 
-dwm_spotify () {
+spotify () {
     if ps -C spotify > /dev/null; then
         PLAYER="spotify"
     elif ps -C spotifyd > /dev/null; then
@@ -45,4 +45,4 @@ dwm_spotify () {
 }
 
 
-dwm_spotify
+spotify
