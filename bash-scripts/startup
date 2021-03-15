@@ -1,3 +1,0 @@
-#!/bin/sh
-
-sleep 3 && /home/kshly/.scripts/trayer/config.sh & /home/kshly/.scripts/greet.sh
