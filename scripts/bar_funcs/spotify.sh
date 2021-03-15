@@ -21,6 +21,8 @@ spotify () {
 
         if [ "$TRACK" = "Advertisement" ]; then
             $(/usr/bin/amixer -q set Master 0 && /usr/bin/notify-send -i ~/.config/moji.png -t 6480 "MOJI" "muted")
+        elif [ "$TRACK" = "Spotify" ]; then
+            $(/usr/bin/amixer -q set Master 0 && /usr/bin/notify-send -i ~/.config/moji.png -t 6480 "MOJI" "muted")
         fi
         
 
