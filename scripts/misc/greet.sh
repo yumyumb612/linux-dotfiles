@@ -10,10 +10,6 @@ name=$(nmcli -t -f active,ssid dev wifi | grep '^yes' | cut -c 5-)
 /usr/bin/amixer set Master "$bat"% &
 /usr/bin/brightnessctl s "$bat"% &
 
-# set wallpaper
-#nitrogen --restore &
-#/usr/bin/feh --bg-scale ~/.config/wallpaper.png &&
-
 # compositor
 #picom --config /home/kshly/.config/picom/compton.conf &
 /usr/bin/picom -b &
