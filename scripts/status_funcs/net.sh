@@ -16,7 +16,7 @@ net () {
 	elif [ $wifiname = 1 ]; then
 		echo "  $wname   $private"
 	else
-		echo "睊 [OFFLINE]  $offline"
+		echo "睊 offline  $offline"
 	fi
 }
 
