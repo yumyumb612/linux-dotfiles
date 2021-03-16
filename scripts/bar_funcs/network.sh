@@ -1,6 +1,6 @@
 #!/bin/bash
 
-hostname="${HOSTNAME:-${hostname:-$(hostname)}}"
+#hostname="${HOSTNAME:-${hostname:-$(hostname)}}"
 
 # PRIVATE="$(nmcli -a | grep 'inet4 192' | awk '{print $2}')"
 # PUBLIC="$(curl -s https://ipinfo.io/ip)"
