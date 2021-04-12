@@ -1,3 +1,0 @@
-#!/bin/sh
-
-~/.SYSTEM/scripts/utils/trayer/start.sh & ~/.SYSTEM/scripts/misc/greet.sh
