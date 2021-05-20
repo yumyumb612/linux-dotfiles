@@ -4,5 +4,5 @@
 <img src="https://raw.githubusercontent.com/yumm-b612/linux/main/hewo.png"/>
 
 <h2>my terminal</h2>
-<img src="https://raw.githubusercontent.com/yumm-b612/linux/main/scrnshot-124-162909.png"/>
+<img src="https://github.com/yumm-b612/linux/blob/main/term.png"/>
 </div>
