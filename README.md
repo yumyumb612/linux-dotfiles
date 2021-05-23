@@ -9,7 +9,7 @@
   <img src="https://github.com/yumm-b612/linux/blob/arch_btw-dwm-yellish/screenshots/desktop.png?raw=true"/>
   
   <h2>terminal</h2>
-  <img src="https://raw.githubusercontent.com/yumm-b612/linux/arch_btw-dwm-yellish/screenshots/terminal.png"/>
+  <img src="https://raw.githubusercontent.com/yumm-b612/linux/arch_btw-dwm-yellish/screenshots/alacritty.png"/>
   
   <h2>discord</h2>
   <img src="https://raw.githubusercontent.com/yumm-b612/linux/arch_btw-dwm-yellish/screenshots/discord.png"/>
