@@ -1,6 +1,7 @@
 <div align="left">
   <h3>yellish</h3>
   <a href="https://github.com/yumm-b612/linux/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/yumm-b612/linux?style=for-the-badge"></a>
+  <a href="https://github.com/yumm-b612/linux/tree/arch_btw-dwm-yellish"><img alt="Branch" src="https://img.shields.io/badge/branch-arch__btw--dwm--yellish-yellow?style=for-the-badge&logo=appveyor"></a>
   
   <hr> <br>
   
