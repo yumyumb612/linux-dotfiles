@@ -1,9 +1,9 @@
 <div align="left">
   <h3>yellish</h3>
-  <a href="https://github.com/yumm-b612/linux/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/yumm-b612/linux?style=for-the-badge"></a>
-  <a href="https://github.com/yumm-b612/linux/tree/arch_btw-dwm-yellish"><img alt="Branch" src="https://img.shields.io/badge/branch-arch__btw--dwm--yellish-yellow?style=for-the-badge&logo=appveyor"></a>
+  <a href="https://github.com/yumm-b612/linux/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/github/license/yumm-b612/linux?style=for-the-badge"></a>
+  <a href="https://github.com/yumm-b612/linux/tree/arch_btw-dwm-yellish"><img alt="branch" src="https://img.shields.io/badge/branch-arch__btw--dwm--yellish-yellow?style=for-the-badge&logo=git"></a>
   <br>
-  <a href="https://archlinux.org/"><img alt="Branch" src="https://img.shields.io/badge/archlinux-btw-blue?style=for-the-badge&logo=Arch%20Linux"></a>
+  <a href="https://archlinux.org/"><img alt="distro" src="https://img.shields.io/badge/archlinux-btw-blue?style=for-the-badge&logo=Arch%20Linux"></a>
   <a href="https://suckless.org/"><img alt="wm" src="https://img.shields.io/badge/suckess-informational?style=for-the-badge&logo=suckless"></a>
   
   
