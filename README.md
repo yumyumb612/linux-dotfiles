@@ -10,7 +10,7 @@
   
   <hr> <br>
   
-  <h2>desktop</h2>
+  <h2>dmenu</h2>
   <img src="https://github.com/yumm-b612/linux/blob/arch_btw-dwm-yellish/screenshots/desktop.png?raw=true"/>
   
   <h2>terminal</h2>
