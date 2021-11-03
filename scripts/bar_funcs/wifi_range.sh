@@ -16,5 +16,5 @@ if [ $wifi = 1 ]; then
 
 	echo "$bar"
 else 
-    echo " "
+    echo " " 
 fi
