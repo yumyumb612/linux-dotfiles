@@ -6,21 +6,20 @@ neofetch --ascii Documents/moji.txt
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
+# Aliases
 alias yeet="rm"
 alias ls="lsd"
-alias c="bat"
-alias l="plocate"
-alias i="sxiv -r -s f -t"
-alias o="xdg-open"
+alias cat="bat"
+alias locate="plocate"
+alias open="xdg-open"
 alias v="vim"
 alias py="python"
-# PS1="[\u@\h \W]\$ "
+
 PS1="\e[0m╭──── \e[0;36m\u \e[0min \e[0;34m\w/ \n\e[0m╰─\e[1;32m \e[0m"
 
-# som tools
+# Some things
 alias docker="sudo docker"
-
-alias moji_say="notify-send -i ~/Pictures/moji.png 'Sir Moji of Honkburg'"
+alias moji_say="notify-send -i ~/Pictures/moji/moji.png 'MOJI'"
 
 # lf 
 export BROWSER="firefox"
